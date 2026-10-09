@@ -1,4 +1,4 @@
-# 🍩 Blender Donut
+**# 🍩 Blender Donut
 
 A 3D donut scene modeled, textured, lit, and rendered in Blender, built by following Blender Guru's (Andrew Price) beginner tutorial series. This project was my introduction to the full 3D pipeline: from a default cube to a finished, photorealistic render.
 
@@ -71,3 +71,4 @@ blender-donut/
 ## License
 
 This project is for learning purposes. The original tutorial belongs to Blender Guru. My own renders and files are shared under the [MIT License](LICENSE) `[or remove this line if you don't add a license]`.
+**
