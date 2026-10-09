@@ -5,7 +5,7 @@ A 3D donut scene modeled, textured, lit, and rendered in Blender, built by follo
 ## Final Render
 
 <p align="center">
-  <img src="Donut_and_Coffee.png" alt="Final render: pink-iced donut with sprinkles on a plate next to a mug of coffee" width="100%">
+     <img src="Donut_and_Coffee.png" alt="Final render: pink-iced donut with sprinkles on a plate next to a mug of coffee" width="100%">
 </p>
 
 ## About
